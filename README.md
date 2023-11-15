@@ -1,3 +1,5 @@
+![CorrelAid X Konstanz Header](https://github.com/CorrelAid/smart-green-city-forum/blob/main/header.png?raw=true)
+
 # Smart Green City Forum Konstanz
 *CorrelAid e.V.*
 
